@@ -53,3 +53,9 @@ The Gui of the graph was given to us but we did add stuff to it. each trainer an
 which is their id which means you can keep track of each agent. For the pokemon, the number inside the circle represents the amount of points the capture of this pokemon
 is worth. We also added a point and amount of moves trackers and a timer that shows how much time is left in the game. The last thing we added is a stop button which
 stops the game and shows you the points and moves tou made in the terminal like it would at the end of the game.
+
+
+#### How to run
+when downloading the files one of the files is the jar file which is the server of the game. to run the game rou need to run this jar file using the command:
+<java -jar Ex4_Server_v0.0.jar x> with x being the game level you want to run(0-15). after that all you need to do is run the student_code file and the
+game will start in your screen.
